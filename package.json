@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-  "build": "parcel build index.html"
-},
+    "build": "parcel build index.html"
+  },
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "7.2.0",
-    "parcel-bundler": ".6.1"
+    "@babel/core": "^7.2.0",
+    "parcel-bundler": "^1.6.1"
   },
   "type": "module",
   "keywords": []
